@@ -1,11 +1,11 @@
-
+import RenderList from "./RenderList";
 
 
 const Content = () => {
     return (
         <>
-        <div className='w-[500px] border'>
-            hello
+        <div className='w-[500px]'>
+            <RenderList />
         </div>
         </>
     )
