@@ -5,7 +5,7 @@ const RenderList = () => {
     return (
         <>
         <div>
-            <Tab />
+            <Tab /> 
         </div>
         </>
     )
